@@ -1,0 +1,22 @@
+QWidget#FrmMain QPushButton
+{
+    background-color:rgb(0,0,0);
+    color: rgb(255, 255, 255);
+    border-style: outset;
+    border-color: beige;
+    /*border-radius: 10px;*/
+}
+
+/* hover按钮悬浮 */
+QWidget#FrmMain QPushButton:hover
+{
+    background-color:rgb(30, 140, 20);
+    color: rgb(0, 0, 0);
+}
+
+ /* 鼠标按下按钮时的状态 */
+QWidget#FrmMain QPushButton:checked
+{
+    background-color:rgb(20, 150, 90);
+    color: rgb(255, 255, 0);
+}

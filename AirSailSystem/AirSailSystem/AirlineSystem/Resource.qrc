@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="back.png">Resource/image/back.PNG</file>
+        <file>Resource/image/AirTicketBooking.png</file>
+        <file>Resource/image/Order.png</file>
+        <file>Resource/image/Recommend.png</file>
+        <file>Resource/image/UserSetting.png</file>
+        <file>Resource/image/exit.png</file>
+        <file>Resource/image/headshot.png</file>
+        <file alias="name">Resource/image/name.png</file>
+        <file alias="password">Resource/image/password.png</file>
+        <file alias="redir">Resource/image/redir.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+    <qresource prefix="/qss">
+        <file>Resource/qss/style.qss</file>
+    </qresource>
+</RCC>
